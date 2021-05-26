@@ -1572,10 +1572,10 @@
     chrome-trace-event "^1.0.2"
     nullthrows "^1.1.1"
 
-"@react-three/drei@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-5.0.0.tgz#1d82f389dc2cfb58b67ce78e2c9075297bdcbba5"
-  integrity sha512-XekK91TE/kNvo8HF+NUPxX9mIrdV40iMFanGc3OUtKDdF3ighv3P05bFsHobBXQ3X3nQOvqz0TAP+H/QcmCFig==
+"@react-three/drei@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@react-three/drei/-/drei-5.2.0.tgz#d0e6dcfe7b4dcda787105f2c26d013f85789fd9f"
+  integrity sha512-COsKmuGb44yV5crh9Ol9oYF97IXirFac+wN2zUZPH/GKvHerPYZiQR8ppv19r4g/y5zIRZnMujf9888+nIv+uA==
   dependencies:
     "@babel/runtime" "^7.11.2"
     blob-polyfill "^5.0.20210201"
